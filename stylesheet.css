@@ -1,0 +1,150 @@
+body {
+  margin: 0;
+  background-color: #ececec;
+  text-align: center;
+}
+
+.top-container {
+  padding-top: 100px;
+  position: relative;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+h1 {
+  width: 10%;
+  margin: 2em auto 0;
+  font-family: 'Indie Flower', cursive;
+}
+
+h2 {
+  width: 10%;
+  margin: 2rem auto 0;
+  font-family: 'Indie Flower', cursive;
+  font-size: 300%;
+
+}
+
+h3 {
+  width: 10%;
+  margin: 2rem auto ;
+  font-family: 'Pacifico', cursive;
+  font-size: 200%;
+}
+
+.top-container p{
+  line-height: 35px;
+  font-size: 150%;
+  width: 20%;
+  margin: 0 auto 1em;
+  font-family: 'Josefin Sans', sans-serif;
+
+}
+
+p {
+  line-height: 35px;
+  font-size: 150%;
+  width: 20%;
+  margin: 2em auto ;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.firstNoir {
+  position: absolute;
+  right: 30%;
+}
+
+.secondNoir {
+  position: absolute;
+  left: 30%;
+}
+
+.middle-container {
+  padding-top: 50px;
+}
+
+hr {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 14px;
+  border-color: grey;
+  width: 15%;
+}
+.profile{
+  position: relative;
+}
+.profile {
+  height: 300px;
+  width: 200px;
+  border: solid #385170;
+  border-radius: 20px;
+  padding-bottom: 30px;
+}
+.prezentare {
+  position: relative;
+}
+#smart  {
+  border: none;
+  position: absolute;
+  top: 61%;
+  right: 10%;
+
+}
+#laptop {
+  border: none;
+  position: absolute;
+  top: 61%;
+  left: 10%;
+}
+.skill-row{
+  position: relative;
+}
+#science1 {
+  border: none;
+  position: absolute;
+  top: 62%;
+  left: 10%;
+
+}
+
+#science2{
+  border: none;
+  position: absolute;
+  top: 62%;
+  right: 10%;
+
+}
+
+#globe{
+  border: none;
+  position: absolute;
+  top: 62%;
+  left: 10%;
+}
+
+#food{
+  border: none;
+  position: absolute;
+  top: 62%;
+  right: 10%;
+}
+.skill-row1 {
+  width: 300px;
+  border: solid #385170;
+  border-radius: 20px;
+}
+
+.skill-row2 {
+  margin-top: 20px;
+  width: 300px;
+  border: solid #385170;
+  border-radius: 20px;
+}
+
+.contact-me p {
+  margin-bottom: 20px;
+}
